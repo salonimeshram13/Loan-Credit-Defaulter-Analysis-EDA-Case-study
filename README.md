@@ -9,7 +9,7 @@ We have to analyze the data to identify the driving factors • To start with th
 
 ## Data Understanding
 - The data is collected from a company which is the largest online loan marketplace facilitating personal loans, business loans, and the financing of medical procedures. 
-- The dataset contains information about past loan applicants and whether they ‘defaulted’. 
+- The dataset contains information about past loan applicants and whether they ‘defaulted’.  
 - It contains the complete loan data for all loans issued from 2007 to 2011.
 - There are 39717 rows and 111 columns in total.
 - The analysis is mainly done on the information like loan amount, term length, interest rate, annual income, installment, employee title, employee length, issue date, purpose, total payment, total received interest and the target variable “Loan Status”.
